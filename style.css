@@ -1,3 +1,13 @@
-:root {
-    --cor-de-fundo:114, 58, 167;
-}
+body {
+    background-color: rgb(6, 103, 135);
+  }
+  
+  h1 {
+    color: rgb(23, 21, 21);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
